@@ -56,7 +56,7 @@ This dataset contains the spam and ham messages used for the purpose of spam cla
     pip install -r requirements.txt
     ```
 
-4. Add your Discord bot token in the configuration file (e.g., `config.py`):
+4. Add your Discord bot token in the env file:
 
     ```python
     SECOND_BOT_TOKEN = 'your-discord-bot-token-here'
